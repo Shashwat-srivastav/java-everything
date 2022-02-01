@@ -1,0 +1,350 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch bubblesort",
+      "request": "launch",
+      "mainClass": "bubblesort",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch leetcode11",
+      "request": "launch",
+      "mainClass": "leetcode11",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch Tictactoemlh",
+      "request": "launch",
+      "mainClass": "Tictactoemlh",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch mountainsearch",
+      "request": "launch",
+      "mainClass": "mountainsearch",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch binarymatrixkunal",
+      "request": "launch",
+      "mainClass": "binarymatrixkunal",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch rotatedsortedkunal",
+      "request": "launch",
+      "mainClass": "rotatedsortedkunal",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch floorkunal01",
+      "request": "launch",
+      "mainClass": "floorkunal01",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch floorkunal",
+      "request": "launch",
+      "mainClass": "floorkunal",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch ceilingkunal01",
+      "request": "launch",
+      "mainClass": "ceilingkunal01",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch ceilingkunal",
+      "request": "launch",
+      "mainClass": "ceilingkunal",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch leetcode034",
+      "request": "launch",
+      "mainClass": "leetcode034",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch leetarray",
+      "request": "launch",
+      "mainClass": "leetarray",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch binarysearch01",
+      "request": "launch",
+      "mainClass": "binarysearch01",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch binarysearch",
+      "request": "launch",
+      "mainClass": "binarysearch",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch dailyleetcode3",
+      "request": "launch",
+      "mainClass": "dailyleetcode3",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch dailyleetcode",
+      "request": "launch",
+      "mainClass": "dailyleetcode",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch corridr",
+      "request": "launch",
+      "mainClass": "corridr",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch arrleet03",
+      "request": "launch",
+      "mainClass": "arrleet03",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch Tictactoe",
+      "request": "launch",
+      "mainClass": "Tictactoe",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch arrleet02",
+      "request": "launch",
+      "mainClass": "arrleet02",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch arry",
+      "request": "launch",
+      "mainClass": "arry",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch decisionmaker",
+      "request": "launch",
+      "mainClass": "decisionmaker",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch variable",
+      "request": "launch",
+      "mainClass": "variable",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch hashcode01",
+      "request": "launch",
+      "mainClass": "hashcode01",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch codechef04",
+      "request": "launch",
+      "mainClass": "codechef04",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch codechef",
+      "request": "launch",
+      "mainClass": "codechef",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch codechef01",
+      "request": "launch",
+      "mainClass": "codechef01",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch codechef02",
+      "request": "launch",
+      "mainClass": "codechef02",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch codechef03",
+      "request": "launch",
+      "mainClass": "codechef03",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestChild",
+      "request": "launch",
+      "mainClass": "TestChild",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch fib",
+      "request": "launch",
+      "mainClass": "fib",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch bit",
+      "request": "launch",
+      "mainClass": "bit",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch dictionary",
+      "request": "launch",
+      "mainClass": "dictionary",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch substringleet",
+      "request": "launch",
+      "mainClass": "substringleet",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch day",
+      "request": "launch",
+      "mainClass": "day",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch binarytodecimal",
+      "request": "launch",
+      "mainClass": "binarytodecimal",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch checksubstring",
+      "request": "launch",
+      "mainClass": "checksubstring",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch kk1",
+      "request": "launch",
+      "mainClass": "kk1",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberSystem",
+      "request": "launch",
+      "mainClass": "NumberSystem",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch loopcheck",
+      "request": "launch",
+      "mainClass": "loopcheck",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch hell",
+      "request": "launch",
+      "mainClass": "hell",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch helloworld",
+      "request": "launch",
+      "mainClass": "helloworld",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch present",
+      "request": "launch",
+      "mainClass": "present",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch roger",
+      "request": "launch",
+      "mainClass": "roger",
+      "projectName": "java_c80a568"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ishu",
+      "request": "launch",
+      "mainClass": "Ishu",
+      "projectName": "java_c80a568"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": false,
+      "cwd": "c:/Users/DEll/.vscode/java",
+      "environment": [],
+      "program": "c:/Users/DEll/.vscode/java/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
